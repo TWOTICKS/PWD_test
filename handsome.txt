@@ -1,3 +1,7 @@
 this file is created on 24/01/25 at 10:33am
 
+<<<<<<< HEAD
 this file edited from main on 24/01/25 at 10:54am
+=======
+this line is added in pretty branch, pretty finds handsome, on 24/01/25 on 10:47am
+>>>>>>> pretty
